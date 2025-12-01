@@ -1,8 +1,8 @@
 # Hi there, I'm Carlos! 👋
 
-🌍 Basado en [Tu Ciudad/País] | 💡 Apasionado por construir soluciones innovadoras
+🌍 Basado en Mexico| 💡 Apasionado por construir soluciones innovadoras
 
-*Machine Learning | Data Scientist | Web Developer | Python Enthusiast*
+* Data Scientist | Web Developer | Python Enthusiast *
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por crear aplicaciones fluidas y fáciles de usar. Disfruto trabajando tanto en tecnologías frontend como backend, y siempre estoy ansioso por aprender y explorar nuevas herramientas.
 
@@ -12,7 +12,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por crear apli
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,django,mongodb,postgres,git,vscode,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,postgres,git,vscode,github,php,kali,java,kotlin" />
   </a>
 </p>
 
