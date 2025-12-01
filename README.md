@@ -1,6 +1,6 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Carlos Mendez!
 
-Soy un desarrollador apasionado por [Tu área de interés, ej. Web, Mobile, AI]...
+Soy un desarrollador apasionado por paginas web...
 
 ---
 
@@ -13,16 +13,10 @@ Soy un desarrollador apasionado por [Tu área de interés, ej. Web, Mobile, AI].
 
 ---
 
-### 📝 Mis Artículos Recientes
-* [Título de tu artículo 1](link-a-tu-blog)
-* [Título de tu artículo 2](link-a-tu-blog)
-
----
-
 ### 📊 Mis Estadísticas de GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos2239&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos2239&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
 </p>
 
 <a href="https://www.buymeacoffee.com/TU_USUARIO" target="_blank">
