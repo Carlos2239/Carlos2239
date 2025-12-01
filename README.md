@@ -1,24 +1,53 @@
-# 👋 ¡Hola, soy Carlos Mendez!
+# Hi there, I'm Carlos! 👋
 
-Soy un desarrollador apasionado por paginas web...
+🌍 Basado en [Tu Ciudad/País] | 💡 Apasionado por construir soluciones innovadoras
 
----
+*Machine Learning | Data Scientist | Web Developer | Python Enthusiast*
 
-### 🛠 Lenguajes y Herramientas (When I code, I rely on)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por crear aplicaciones fluidas y fáciles de usar. Disfruto trabajando tanto en tecnologías frontend como backend, y siempre estoy ansioso por aprender y explorar nuevas herramientas.
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 🛠 Technologies & Tools
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlos2239&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos2239&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,django,mongodb,postgres,git,vscode,docker" />
+  </a>
 </p>
 
-<a href="https://www.buymeacoffee.com/TU_USUARIO" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
+---
+
+### ☀️ Let's Connect!
+
+Siempre estoy abierto a colaborar en proyectos interesantes o discutir nuevas ideas.
+
+<p align="left">
+  <a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tu-usuario" height="30" /></a>
+  <a href="mailto:tu-email@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tu-email" height="30" /></a>
+</p>
+
+---
+
+### 🎉 Fun Fact
+
+Una vez escribí un script que automatizaba mi rutina de café matutina (bueno, casi) ☕🤖
+
+---
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Carlos2239"
+        self.role = "Developer"
+        self.language_spoken = ["es_LA", "en_US"]
+    
+    def say_hi(self):
+        print("¡Gracias por visitar mi perfil! Que el código te acompañe.")
+
+me = SoftwareEngineer()
+me.say_hi()
