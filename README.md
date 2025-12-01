@@ -12,7 +12,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por crear apli
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,postgres,git,vscode,github,php,kali,java,kotlin" />
+    <img src="https://skillicons.dev/icons?i=php,kali,js,react,nodejs,python,mongodb,mysql,git,vscode,github,html,css,java,kotlin,ilustrator" />
   </a>
 </p>
 
